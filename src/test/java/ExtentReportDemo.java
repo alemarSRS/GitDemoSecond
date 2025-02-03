@@ -27,7 +27,7 @@ public class ExtentReportDemo {
         driver.get("https://rahulshettyacademy.com/client");
         System.out.println(driver.getTitle());
         driver.close();
-        test.fail("result not matching");
+        test.fail("resultddda not matching");
         extent.flush();
 
 
